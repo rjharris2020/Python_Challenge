@@ -11,7 +11,7 @@ My task is to create a Python script that analyzes the records to calculate each
 4. The greatest increase in profits (date and amount) over the entire period
 5. The greatest decrease in profits (date and amount) over the entire period
 
-My final script will both print the analysis to the terminal and export a text file with the results.
+My final script will both print the analysis to the terminal (main.py) and export a text file (budget_analysis.txt) with the results.
 
 ## The second portion of this challenge is called "PyRoll".
 In the "PyRoll" challenge, I am tasked with helping a small, rural town modernize its vote counting process.
