@@ -24,4 +24,4 @@ I will be given a set of poll data called election_data.csv. The dataset is comp
 4. The total number of votes each candidate won
 5. The winner of the election based on popular vote.
 
-My final script should both print the analysis to the terminal and export a text file with the results.
+My final script should both print the analysis (pyrollmain.py) to the terminal and export a text file (electionDataAnalysis.txt) with the results.
